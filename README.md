@@ -27,7 +27,7 @@ Open the index.html file in your browser.
 
 🌟 Demo
 
-Check out the live demo: Your Demo Link
+Check out the live demo: https://solar-system-pt2.vercel.app
 
 📝 License
 
