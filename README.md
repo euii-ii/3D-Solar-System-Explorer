@@ -21,17 +21,7 @@ CSS: Adding styles and animations for realistic visuals.
 🚀 Installation
 Clone this repository:
 
-bash
-Copy
-Edit
-git clone  
-
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd 3d-solar-system  
+git clone  https://github.com/euii-ii/solar-system-pt2.git  
 
 Open the index.html file in your browser.
 
